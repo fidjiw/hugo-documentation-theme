@@ -53,7 +53,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-copyright_license:
+copyright_license: false
   enable: false
   allow_derivatives: false
   share_alike: true
@@ -72,7 +72,7 @@ comments:
     show_count: true
   commento:
     url: ''
-search:
+search: false
   provider: wowchemy
   algolia:
     app_id: ''
