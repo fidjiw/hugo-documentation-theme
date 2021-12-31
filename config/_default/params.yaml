@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
@@ -31,7 +31,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2006-Jan-2'
 time_format: '3:04 PM'
 
 # Site features
