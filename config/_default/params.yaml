@@ -53,7 +53,7 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-copyright_license: false
+copyright_license: 
   enable: false
   allow_derivatives: false
   share_alike: true
