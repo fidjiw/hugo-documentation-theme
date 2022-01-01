@@ -21,7 +21,7 @@ twitter: 'litb20939614'
 # Site header
 
 main_menu:
-  enable: false
+  enable: true
   align: l
   show_logo: false
   show_language: false
@@ -53,12 +53,12 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-# copyright_license: 
-#   enable: false
-#   allow_derivatives: false
-#   share_alike: true
-#   allow_commercial: false
-#   notice: 'This work is licensed under {license}'
+copyright_license: 
+  enable: true
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
 plugins_js: []
 breadcrumb:
   page_types:
