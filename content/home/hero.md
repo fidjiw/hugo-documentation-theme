@@ -14,9 +14,9 @@ cta:
   label: 开始
   icon_pack: fas
   icon: download
-cta_alt:
-  url: docs/
-  label: 查看文档
+#cta_alt:
+  #url: docs/
+  #label: 查看文档
 
 ---
 
