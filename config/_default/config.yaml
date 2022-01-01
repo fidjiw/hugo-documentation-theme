@@ -34,41 +34,41 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-permalinks:
-  authors: '/author/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-disableAliases: true
-outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
-imaging:
-  resampleFilter: lanczos
-  quality: 75
-  anchor: smart
-timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
+# footnotereturnlinkcontents: <sup>^</sup>
+# ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+# permalinks:
+#   authors: '/author/:slug/'
+#   tags: '/tag/:slug/'
+#   categories: '/category/:slug/'
+# disableAliases: true
+# outputs:
+#   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+#   section: [HTML, RSS]
+# markup:
+#   defaultMarkdownHandler: goldmark
+#   goldmark:
+#     renderer:
+#       unsafe: true
+#   highlight:
+#     codeFences: false
+#   tableOfContents:
+#     startLevel: 2
+#     endLevel: 3
+# imaging:
+#   resampleFilter: lanczos
+#   quality: 75
+#   anchor: smart
+# timeout: 600000
+# taxonomies:
+#   tag: tags
+#   category: categories
+#   author: authors
+# related:
+#   threshold: 80
+#   includeNewer: true
+#   toLower: true
+#   indices:
+#     - name: tags
+#       weight: 100
+#     - name: categories
+#       weight: 70
