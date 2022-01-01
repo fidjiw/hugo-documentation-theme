@@ -1,5 +1,5 @@
 ---
-title: 书屋
+title: GO
 type: book  # Do not modify.
 toc: false
 ---
